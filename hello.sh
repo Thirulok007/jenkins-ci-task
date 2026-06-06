@@ -1,1 +1,1 @@
-echo "Webhook test success"
+echo "Jenkins CI Test"
